@@ -26,12 +26,22 @@ But recently, I watched a documentary called Get Lamp, which is about the text-a
 
 I think people always say that text is under threat from visual culture. But if semi-graphical, semi-text video games become the way that we understand the written word, are we just cheapening text, printing a special edition of the Lord of the Rings books with Viggo Mortensen’s mugshot on every second page?
 
+_Thursday_
+
+LLMs have never been a part of my personal practice, and I don’t think they ever will be. They are not thinking machines, not Artificial Intelligence, but language machines: their purpose is to generate a whole bunch of text. But what is the purpose of that? Words do not just relate to other words, they also relate to physical things. I look out the window and see it is raining, so I text a friend that it is raining. Embodied experience is not something achievable by a probabilistic computer program. A novel or a poem isn’t a straightforward communication about a physical event, but it is still influenced by my brain state, by my experiences, my inclinations, my material conditions. 
+
+I'm not against experimental or algorithmic literature. If on a winter's night a traveller was made by elaborating on an algorithm, a greimas square. But If on a winter's night a traveller is my favourite novel of all time, and speaking just to my experience, I've never seen any meaningful story written using an LLM. 
+
+The copyright issue is the one I care the least about. This is a world where media programs are blasted out to the public like so much chicken feed, what do you mean someone “stole” it?
+
 
 **Week 3**
 
 I think, when we talk about something that has become as ubiquitous and monstrous as social media, it can be easy to slip into nostalgia for the old internet. But what halcyon time are we looking back on, exactly? One of the organisations that was first to implement networked computers was the United States Department of Defence, with a program called ARPANET. At the time, using computers was incredibly expensive, and largely the domain of elite mathematicians and scientists. When the internet became commercially available, the new websites received millions of dollars in funding from investors. Most of them failed, and plunged the economy into recession. 
 
 Everything has a political economy, and the internet is no exception. I think whenever we interact with the internet, we are acting from a morally compromised position. But that’s also true of the food we eat, or of buying clothes. I’m certainly not optimistic about where social media is headed, but it is nevertheless where we find ourselves. Since at least the covid pandemic and the lockdowns, there is no part of our culture that is not deeply influenced by what takes place online. I think this is the position from which we have to act. If we want to change things for the better, we can’t turn back the clock, we have to start where we are now and seek structural change. 
+
+
 
 **Week 4**
 
