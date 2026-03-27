@@ -41,6 +41,16 @@ I think, when we talk about something that has become as ubiquitous and monstrou
 
 Everything has a political economy, and the internet is no exception. I think whenever we interact with the internet, we are acting from a morally compromised position. But that’s also true of the food we eat, or of buying clothes. I’m certainly not optimistic about where social media is headed, but it is nevertheless where we find ourselves. Since at least the covid pandemic and the lockdowns, there is no part of our culture that is not deeply influenced by what takes place online. I think this is the position from which we have to act. If we want to change things for the better, we can’t turn back the clock, we have to start where we are now and seek structural change. 
 
+_Thursday_
+
+I think having fine control over process is very important for a writer. 
+
+For one thing, it is important to know all of one’s ethical considerations are being kept up with. It would be difficult to continue working if one didn’t know whether what one was doing was even morally correct. 
+
+To some extent, a writer’s process is their whole being. Sure, there is some of their identity wrapped up in works that have already been finished, but that is dead and over, an old discarded snake skin. A process is a living machine which incorporates new aspects and sheds old ones, it continually produces the new body of work. 
+
+If a language model is part of a writer’s process, it then stands to reason they would want to know everything that went into that particular alchemical brew.
+
 
 
 **Week 4**
