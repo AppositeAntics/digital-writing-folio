@@ -1,9 +1,12 @@
 **Week 1**
 
+What is e-literature?
 
+My definition of e-literature is a digital work that is composed primarily of text rather than computer graphics. A text that is composed equally of text and computer graphics is probably also not e-literature. I think e-literature could also refer to printed texts that are an artefact of a digital method (as long as the method is more considered than using a word processor to type up a manuscript).
 
+I’m not sure the majority of people who write e-literature know they are writing e-literature. I’m no expert, but it seems to me that there is an “avant garde” of interactive fiction and hypertext writers, who are in a somewhat self contained tradition of their own, meanwhile lots of people write e-literature for their own reasons. Amateur game designers on itch.io, browser games like Fallen London, visual novels, web novels like Worm, all seem to have their own distinct traditions with only some awareness of canonical works. But if there is an academized subculture called e-literature, and also e-literature is text on a computer, then it seems obvious to me that it will be reinvented independently over and over again. That seems to me to be what Flores is arguing as well.
 
-
+I’m not so sure about “ergodic” literature. It seems to me to be a way by which digital media academics try to make a hard distinction between themselves and other fields where perhaps there is none. I mean, don’t lots of books require meaningful effort to read? In the eighteenth century, there was a popular genre of books that were metaphors. Billy Beans and Sally Squash stood in for the King and the Anglican Church, but it was up to the readers to actually parse this out for themselves, and some readers couldn’t solve them. Isn’t this interactivity? Isn’t this difficulty? 
 
 
 **Week 2**
