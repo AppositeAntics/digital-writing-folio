@@ -63,3 +63,46 @@ I think there is also an open question as to the extent we embody the main chara
 _Thursday_ 
 
 I think small language models, machine learning programs designed for very specific purposes, or to imitate specific people, are more interesting or fruitful than things like ChatGPT. Rather than becoming a "blurry JPEG of the web" (https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web), they are purpose built instruments that can put pressure on and recombine specific things. Nevertheless, I think some of the inherent limitations of the technology still show here. I don't have access to as much of the training data as the model, but just going off Compendium of Failed Relationships and the blog posts, the voice of JenAI has not quite captured the voice. It is missing self reflection and any sort of irony. Combine that with a 750 word memory limit, it comes across as much broader and more mawkish, less cutting than the original. 
+
+**Week 6**
+
+_Audit_
+
+My early concept: the unnamed main character, a woman in her early 20s, who has been recently bereaved, arrives at a house party. She can’t quite face going inside, so instead she wanders around the neighbourhood, going to various locations and reminiscing about past events. This slowly sheds more light about what happened to her. After 3-5 of these events, she goes inside and the game ends.
+
+After a short introductory sequence, regular gameplay begins. The interactor must navigate rooms and hallways. Hallways are areas with a short description that does not change. They link hallways and rooms. Interactors have to navigate the hallways to find the rooms and progress. Rooms are linked to one hallway. They contain an interactable event that illuminates an aspect of the story. The events only play once. Interacting with each event increments a global variable. When the global variable reaches a certain amount, the game ends. Not all rooms need to be interacted with to progress. Each playthrough only yields partial information about the story. But because they can be any three events, there are many ways to interpret what happens.
+
+_Tasks to Complete_
+
+First pass for writing: Write 1st pass of introduction, come up with descriptions for all hallways/rooms. Write out one room.
+
+Map: Have all hallways and rooms present in twine.
+
+Variables: Figure out how to use javascript to create events that only happen once, and to create a variable that governs the ending.
+
+
+
+
+**Week 7**
+
+_Progress Audit_
+
+My three tasks were to: write the room descriptions, an event and the intro; program all the nodes into the game; and learn javascript enough to do the necessary coding.
+
+When it came to doing the writing, I wrote them mostly in a sudden flash of inspiration. I think most of them are still quite rough, and need more drafting. In the final version, I think only the core ideas will be preserved. It was really fun writing the room descriptions, as I was having to apply my writing skillset to a task I never had to do before. I never intended to make much use of the click-append functions but I found working with them easy and intuitive, and found they could represent the narrator’s thought processes, or to reveal information that was known to the narrator but not the audience. Making new nodes is also a fun way to structure text, giving a pause larger than a paragraph break but smaller than a chapter break.
+
+Putting all the nodes in the game was easy, though it came with some brainstorming.
+
+I spent an hour and a half learning javascript tutorials, but had to stop when I found out that javascript couldn’t print text that acted as links to other nodes. Instead I looked through the Harlowe manual and found out how to use twee code to do what I wanted instead.
+
+_Swift Reflection: Iterative Method_
+
+I would say that I have been working with the iterative method. I originally wanted to program my game with javascript, but then I found out it didn’t work well with Harlowe. Going back to the drawing board, I figured out how Harlowe’s Twee Code tools worked and checked the manual to figure out how to do what I wanted. I tested out how to use variables by having an endgame variable that would be set to either 0 or 1. When it was 1, that signified that the endgame had been reached. I made it so that the room description changed if the variable was 1. I grew attached to this idea and changed all the other rooms to have the same feature. To make it easier to change them all at once, I added another variable that tracked the amount of score needed to win. It could be set to any number, and when the original variable reached the second number, that signified the end game. Now my narrative is coded much more elegantly, and it has more flavour text. 
+
+_Swift Reflection: Thursday_
+
+I’ve spent a lot of time wandering through the suburbs by myself. Going for walks in that landscape inspires a lot of different feelings in me, feelings that are deepened by solitary reflection. To capture the feeling of wandering back and forth, I decided that my story needed to have a navigable world, rather than being a linear story. To link this with the emotional core of the narrative, I decided that the main character would have some tragic event in her past, which she would be reminded of sometimes when wandering. That link between physical navigation and the gradual unveiling of someone’s character is the core idea of my project.
+
+The overall vision is that there is an introduction, which is linear and sets up the basic parts of plot and characterisation. Then the narrative enters a more open phase, where the interactor is free to wander through various nodes and remember certain events. This lasts until the interactor has seen three out of five of the memories, at which point they should have gained a partial picture of the story, then they have to navigate through an alternate version of the same space to reach the ending. My prototype is a very small version of this. The introduction is present, as is the physical space, and one memory. After experiencing the memory, the interactor then goes back to the beginning to get the game over screen. 
+
+The problem is, and something I might have to fix before showcasing it, is that having only one memory means that single incident holds more narrative weight than it should. It is the most vital content, rather than being one skippable story. Interactors are liable to put more weight on it than it can hold, to take themes particular to that part (like Dungeons and Dragons) to be generally important to the narrative. 
