@@ -129,4 +129,8 @@ I didn’t fully appreciate this insight until I started working on my own proje
 
 Another thing First Draft of the Revolution did was have multiple point of view characters. I think there are some interesting problems there for Ryan’s framework of games as being Exploratory/Ontological and Internal/External. When we are embodying multiple characters in turn, is that an Internal story or an external one? Are there multiple avatars, or are we firmly outside and accessing a database of internal thoughts? Do optional enchantment changes represent an Exploration of more of the story or an Ontological change in a character’s thoughts or expression, even if there is no other change? It seems backward to suggest that a character’s internal psychology is simply a less important part of the storyworld. 
 
+*Week 11*
+
+The most intensive task I have yet to finish is completing my twine story, although I still have to make my website as well. After I submit my last assignment, I will have five more days to finish my Horizons work. Of those days, I will spend two working on my website and my critical reflection. The other three will be for working on the twine story. 
+
 
