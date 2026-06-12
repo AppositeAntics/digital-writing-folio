@@ -106,3 +106,27 @@ I’ve spent a lot of time wandering through the suburbs by myself. Going for wa
 The overall vision is that there is an introduction, which is linear and sets up the basic parts of plot and characterisation. Then the narrative enters a more open phase, where the interactor is free to wander through various nodes and remember certain events. This lasts until the interactor has seen three out of five of the memories, at which point they should have gained a partial picture of the story, then they have to navigate through an alternate version of the same space to reach the ending. My prototype is a very small version of this. The introduction is present, as is the physical space, and one memory. After experiencing the memory, the interactor then goes back to the beginning to get the game over screen. 
 
 The problem is, and something I might have to fix before showcasing it, is that having only one memory means that single incident holds more narrative weight than it should. It is the most vital content, rather than being one skippable story. Interactors are liable to put more weight on it than it can hold, to take themes particular to that part (like Dungeons and Dragons) to be generally important to the narrative. 
+
+**Week 10**
+
+The feedback I got was that the tone and narration of my story were interesting, but I needed to incorporate more visual differentiation for the links. The overworld room descriptions are fun, but they should be more consistent. Before next week, I should go back and edit the room descriptions, add at least one more route for variety, and start working on the website. 
+
+_Thursday_
+
+Blog responses:
+
+New media forms like digital writing have come of age in the epoch of postmodernism, which is characterised by a waning of affect, as individual experience becomes less important compared to the smooth circulation of capital. I think it is worthwhile to consciously reinfuse digital writing with embodiment and individual emotion. 
+
+“Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist.” There is no return to some authentic, pre-critical garden of Eden. You either have to think about what you write, and do things deliberately, or someone else will do it for you.
+
+The narrative arc of this writing is that it goes from Jenny standing aloof from the archive and by extension her mother, leading to a solution being found that means she has a new way to relate to her memory. Adding a narrative frame makes non-fiction more satisfying because it means that the piece is going somewhere rather than just dissipating into rambling. 
+
+_Swift Draft Reflection_
+
+I think my biggest lightbulb moment actually came from the beginning of the semester, when we looked at the four examples of digital literature in week 1. I read First Draft of the Revolution, which is a game about drafting letters. You are shown letters with certain parts highlighted, and you click them to write a new version. I thought it was really interesting, especially with how it could anticipate and respond to reader responses, potentially giving someone the option to say: “this passage is too prickly” or “be more assertive!” and have that affect the narrative and the storyworld. 
+
+I didn’t fully appreciate this insight until I started working on my own project. Initially, I was just going to use hypertext, but the lure of other enchantments proved to be too strong to resist. They let me insert additional information for curious readers, to linger on a thought without breaking the flow of the text, and to convey my perspective character’s thought process. My story ended up quite thick with enchantments, of all different types. 
+
+Another thing First Draft of the Revolution did was have multiple point of view characters. I think there are some interesting problems there for Ryan’s framework of games as being Exploratory/Ontological and Internal/External. When we are embodying multiple characters in turn, is that an Internal story or an external one? Are there multiple avatars, or are we firmly outside and accessing a database of internal thoughts? Do optional enchantment changes represent an Exploration of more of the story or an Ontological change in a character’s thoughts or expression, even if there is no other change? It seems backward to suggest that a character’s internal psychology is simply a less important part of the storyworld. 
+
+
